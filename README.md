@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmarcelino4&show_icons=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmarcelino4&show_icons=true&theme=github_dark)
 
 
 # CDAARD-UMaia
